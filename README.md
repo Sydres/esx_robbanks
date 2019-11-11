@@ -30,13 +30,13 @@ This resource is for ESX. It's primarily setup for robbing the Pacific Bank
 
 ### Using [fvm](https://github.com/qlaffont/fvm-installer)
 ```
-fvm install --save --folder=esx esx-org/esx_holdup
+fvm install --save --folder=esx esx-org/esx_rabbanks
 ```
 
 ### Using Git
 ```
 cd resources
-git clone https://github.com/ESX-Org/esx_holdup [esx]/esx_holdup
+git clone https://github.com/ESX-Org/esx_holdup [esx]/esx_robbanks
 ```
 
 ### Manually
